@@ -1,0 +1,15 @@
+{
+  "name": "try_hrpc",
+  "version": "1.0.0",
+  "description": "Simple HRPC ping client and server",
+  "main": "server.js",
+  "scripts": {
+    "setup": "node setup-schema.js",
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "dependencies": {
+    "hrpc": "4.2.0",
+    "hyperschema": "^1.0.0"
+  }
+}
