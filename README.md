@@ -1,6 +1,6 @@
 # HRPC Ping Example
 
-A simple ping client and server implementation using HRPC (Hypercore RPC).
+A simple ping client and server implementation using HRPC (Holepunch RPC).
 
 ## Setup
 
